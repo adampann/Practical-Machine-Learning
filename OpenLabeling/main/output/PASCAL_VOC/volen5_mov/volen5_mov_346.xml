@@ -11,4 +11,28 @@
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
+  <object>
+    <name>volen_number</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>428</xmin>
+      <ymin>376</ymin>
+      <xmax>696</xmax>
+      <ymax>470</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>volen_sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>334</xmin>
+      <ymin>336</ymin>
+      <xmax>802</xmax>
+      <ymax>680</ymax>
+    </bndbox>
+  </object>
 </annotation>
