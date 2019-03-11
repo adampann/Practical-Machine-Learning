@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input/volen2_mov</folder>
+  <filename>volen2_mov_409.jpg</filename>
+  <path>/Users/danielgmu/Documents/brandeis/cosi149b/Practical-Machine-Learning/OpenLabeling/main/input/volen2_mov/volen2_mov_409.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
